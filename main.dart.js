@@ -45589,7 +45589,7 @@ $2:function(a,b){var t,s,r=null,q=this.a,p=b===C.ng,o=p?C.p:C.r,n=u.E,m=H.a([],n
 m.push(X.a3T(q.cx,"GPU\u5373\u6642\u5f71\u50cf",l,k))
 l=q.r
 k=q.z
-m.push(X.a3T(q.cx,"Bit-Level \u5373\u6642\u5f71\u50cf",l,k))
+m.push(X.a3T(q.cy,"Bit-Level \u5373\u6642\u5f71\u50cf",l,k))
 m=B.a3f(m,r,C.p,!0)
 l=p?1:2
 p=p?C.r:C.p
